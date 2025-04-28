@@ -1,5 +1,11 @@
 #! /bin/bash
 
 echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDS06K19GmYc19o2QqEp4Tq8DvVRoxDXqbvKApKvl5pmHd+nWenjW2TaPfAuZSxm4vIY31ynpSsGuGKy/0D8NTTNd7+Xx2dNqIth+OtMe1GtLBCbvxkixIdf0ER7IPma7aEFWxW5ong5+rfTuzJzCGxztz6TbcJeyMoXDCoKOST6Ir9axjQS/sP72xhe7uj3868YdrMUwsMedFlwDK2AelJSf1o9iOk+19DxdtBMgt9wBipdziVRpy3tmyKQV19VaoNA0NaOcP0CH15QGVSGG+ydy3plEZbanfzErOsBa2L7jRY8wk0J6AFXmhlQmBTf4hXiTsT/4EjwhpmI4zgnnFAjjBoTJxCZalv1bWSf2IkAu/EM8ciTPO+5vBOT/kOmX1gEmXCH6R+pQaAc1QucfEmByCSfd1rnyJCQZod3MbfkafFVeyWsQK+uwdZxYN7Gw6jbLSBmjFBQe3oa1LQrlB0iGAI/+vvX35h4GvjVyZB/9iwd/ADoseGKCXwSPcw7I0= abc@gmail.com" > /etc/dropbear/authorized_keys
+
 #sleep 600
 #reboot
+
+while true
+do
+    sleep 600
+done
